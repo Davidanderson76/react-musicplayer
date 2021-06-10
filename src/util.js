@@ -8,7 +8,7 @@ function chillHop() {
         "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/sanity.wav",
-      color: ["#205950", "#2ab3bf"],
+      color: ["#a76686", "#54486c"],
       id: uuidv4(),
       active: true,
     },
