@@ -5,7 +5,7 @@ function chillHop() {
     {
       name: "Sanity",
       cover:
-        "https://pbs.twimg.com/media/E06gRHbX0AIcZkd?format=jpg&name=large",
+        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/sanity.wav",
       color: ["#205950", "#2ab3bf"],
@@ -25,7 +25,7 @@ function chillHop() {
     {
       name: " The World ",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBQWoAEr4ri?format=jpg&name=large",
+        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio:
         "https://davidanderson76.github.io/DavidAnderson/music/hatetheworld.wav",
@@ -36,7 +36,7 @@ function chillHop() {
     {
       name: "Round N' Round",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBPXoAE1cdT?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio:
         "https://davidanderson76.github.io/DavidAnderson/music/round N' round.wav",
@@ -47,7 +47,7 @@ function chillHop() {
     {
       name: "Schmuggly",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBSWAAAbTCw?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio:
         "https://davidanderson76.github.io/DavidAnderson/music/schmuggly.wav",
@@ -58,7 +58,7 @@ function chillHop() {
     {
       name: "Sorry",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBSWAAAbTCw?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/sorry.wav",
       color: ["#205950", "#2ab3bf"],
@@ -68,7 +68,7 @@ function chillHop() {
     {
       name: "Ugly",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBSWAAAbTCw?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/ugly.wav",
       color: ["#205950", "#2ab3bf"],
