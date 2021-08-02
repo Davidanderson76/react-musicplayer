@@ -5,7 +5,7 @@ function chillHop() {
     {
       name: "Sanity",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/sanity.wav",
       color: ["#a76686", "#54486c"],
@@ -15,7 +15,7 @@ function chillHop() {
     {
       name: "Human",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/human.wav",
       color: ["#a76686", "#54486c"],
@@ -25,7 +25,7 @@ function chillHop() {
     {
       name: " The World ",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio:
         "https://davidanderson76.github.io/DavidAnderson/music/hatetheworld.wav",
@@ -36,7 +36,7 @@ function chillHop() {
     {
       name: "Round N' Round",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio:
         "https://davidanderson76.github.io/DavidAnderson/music/round N' round.wav",
@@ -47,7 +47,7 @@ function chillHop() {
     {
       name: "Schmuggly",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio:
         "https://davidanderson76.github.io/DavidAnderson/music/schmuggly.wav",
@@ -58,7 +58,7 @@ function chillHop() {
     {
       name: "Sorry",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/sorry.wav",
       color: ["#a76686", "#54486c"],
@@ -68,7 +68,7 @@ function chillHop() {
     {
       name: "Ugly",
       cover:
-        "https://pbs.twimg.com/media/EdzUBBOX0AIZPkX?format=jpg&name=medium",
+        "https://user-images.githubusercontent.com/42220778/127907318-234bf694-b869-4aad-b06b-45117b50d7a3.jpg",
       artist: "David Anderson",
       audio: "https://davidanderson76.github.io/DavidAnderson/music/ugly.wav",
       color: ["#a76686", "#54486c"],
